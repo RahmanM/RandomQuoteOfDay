@@ -3,7 +3,7 @@ Node Module, that gets a random quote of the day. Better than Hello World ;-)
 
 ## usage:
 
-...js
+...
 const randomQuote = require('./index');
 randomeQuote();
 
