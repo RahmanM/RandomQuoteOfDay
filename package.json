@@ -1,0 +1,26 @@
+{
+  "name": "randomquoteofday",
+  "version": "1.0.0",
+  "description": "Gets random quote from famous people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahmanM/RandomQuoteOfDay.git"
+  },
+  "keywords": [
+    "random",
+    "quote",
+    "quote",
+    "qod"
+  ],
+  "author": "Rahman Mahmoodi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahmanM/RandomQuoteOfDay/issues"
+  },
+  "homepage": "https://github.com/RahmanM/RandomQuoteOfDay#readme",
+  "dependencies": {}
+}
